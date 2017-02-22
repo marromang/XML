@@ -1,0 +1,5 @@
+1.Lista los tipos de centros.
+2. Cuenta el numero de centros de cada tipo
+3. Pide la titularidad del centro y muestra el numero que hay y de que tipos son.
+4. Pide un tipo de centro y muestra los que hay con esa caracerística.
+5. Pide un numero minimo de camas, muestra los centros que superan ese numero, con su tipo y características como nombre, UCI(si tiene o no), tipo de centro, quién lo gestiona.
